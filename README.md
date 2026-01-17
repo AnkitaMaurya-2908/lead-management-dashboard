@@ -69,10 +69,14 @@ npm run dev
 Frontend runs on: 
 http://localhost:3000
 
+
 ## 🌐 Live Demo
 
 - Frontend: https://lead-management-dashboard-1-m8vw.onrender.com
 - Backend: https://lead-management-dashboard-lp0a.onrender.com
+
+  data - https://lead-management-dashboard-lp0a.onrender.com/api/leads
+
 
 
 ## 📸 Screenshots
